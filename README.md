@@ -39,6 +39,6 @@ in this folders resides the server side dependencies, I suppose you had already 
 3 - npm start
 
 
-#NB :
-almoast app related Logical Errors i counted, are handled otherwise check Console if you have your Own.
+#NB
+Almost app related Logical Errors i faced, are handled otherwise check Console if you have your Own.
 i would be greatfull if you share me the Output.
