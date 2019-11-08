@@ -26,8 +26,11 @@ DB_URI="mongodb://localhost:${APP_PORT}/SHOPS"  [STRING]  // required by Mongoos
 in this folders resides the server side dependencies, So make sure you have NODEJS and NPM installed first, then open your Commande Line :
 
 1 - git clone https://github.com/OussamaKasraoui/MERN-SHOPS.git
+
 2 - cd MERN-SHOPS/BackEnd
+
 3 - npm install       // to install application's dependencies ( Only for the first Time )
+
 4 - node app.js       
 
 
@@ -35,7 +38,9 @@ in this folders resides the server side dependencies, So make sure you have NODE
 in this folders resides the server side dependencies, I suppose you had already cloned the project, so in your Commande Line make sure you are in MERN-SHOPS directory then:
 
 1 - cd frontend
+
 2 - npm install   // to install application's dependencies ( Only for the first Time )
+
 3 - npm start
 
 
