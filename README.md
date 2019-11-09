@@ -5,7 +5,7 @@ Evaluation Project for UnitedRemote
 Hello Coders, this project is an assessment for my skills as a Javascript Full Stack developer , ( i hope i'm skilled enough  :D ) otherwise i welcome all your feedbacks, contributions, also if you have projects ( no matter What programming language is required i'm open to learn new topics ) i'd love to contribute in the development process.
 you can reach me out through my email : kasraouioussama@gmail.com
 
-Now let's dive a little bit in the explaination, in this project i used The MERN ( Mongo Express ReactJs NodeJs ) to build a Web application wich responds to the requirments listed in this link bellow :
+Now let's dive a little bit in the explaination, in this project i used The MERN STACK( Mongo Express ReactJs NodeJs ) to build a Web application wich responds to the requirments listed in this link bellow :
 https://github.com/hiddenfounders/web-coding-challenge/blob/master/coding-challenge.md
 
 
@@ -35,7 +35,7 @@ in this folders resides the server side dependencies, So make sure you have NODE
 
 
 # frontend Folder
-in this folders resides the server side dependencies, I suppose you had already cloned the project, so in your Commande Line make sure you are in MERN-SHOPS directory then:
+in this folders resides the client side dependencies, I suppose you had already cloned the project, so in your Commande Line make sure you are in MERN-SHOPS directory then:
 
 1 - cd frontend
 
