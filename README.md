@@ -9,7 +9,7 @@ Now let's dive a little bit in the explaination, in this project i used The MERN
 https://github.com/hiddenfounders/web-coding-challenge/blob/master/coding-challenge.md
 
 
-the project consists of two folders One for the server side scripts, and the seconde for the Client side scripts. besides some Envirenments Variables which must be declared first of all :
+the project consists of two folders One for the server side scripts, and the seconde for the Client side scripts. besides some Envirenments Variables which must be declared first of all ( check MongoDB section ) :
 
 SECRETORKEY="Your Secret Or Key "               [STRING]  // required by JWT      Library
 
@@ -42,6 +42,9 @@ in this folders resides the client side dependencies, I suppose you had already 
 2 - npm install   // to install application's dependencies ( Only for the first Time )
 
 3 - npm start
+
+# MongoDB
+wich will stand for a NoSQL database, holding our web application's data, specially the user's account credentials and shop's informations. so make sure you have MongoD service already installed and congured. also pay attention to make a file named ".env" then put all Envirenments VARIABLES listed above in that file.
 
 
 # NB
