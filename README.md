@@ -69,7 +69,7 @@ For the Server Side scripts, and depending on the Task requirments i used severa
 
 
 # frontend Folder
-in this folders resides the client side dependencies, I suppose you had already cloned the project and, so in your Commande Line make sure you are in MERN-SHOPS directory then:
+in this folders resides the client side dependencies, I suppose you had already cloned the project, so in your Commande Line make sure you are in MERN-SHOPS directory then:
 ```bash
 1 - cd frontend
 
@@ -118,7 +118,7 @@ For the Client Side scripts, i used several ``dependencies`` based on the task's
 **axios :** is a romise based HTTP client for the browser and ``Node.js``, it's used basically to perform an alternative ``Fetch`` operations to a remote end points.
 
 **history :** is a library that lets you easily manage session history anywhere ``JavaScript`` runs. **history** abstracts away the differences in various environments and provides a minimal ``API`` that lets you manage the **history stack**, navigate, and persist state between sessions.
-..
+
 **geolib :** is a library which provides basic geospatial operations like distance calculation, conversion of decimal coordinates to sexagesimal and vice versa, etc. This library is currently 2D, meaning that altitude/elevation is not yet supported by any of its functions, check [``Home.js file``](/frontend/src/components/core/home.js) and [``nearby.js file``](/frontend/src/components/login/nearby.js)
 
 **http-proxy-middleware :** is a ``Node.js`` proxying made simple. Configure proxy middleware with ease for connect, express, browser-sync and many more. check [``package.json file`` (proxy paire/value)](/package.json)
